@@ -7,4 +7,4 @@ Special thanks to the open source bootstrap libraries that made this website pos
 
 ELSONPOON.md
 
-![biography](screenshot.png)
+![biography](img/screenshot.png)
